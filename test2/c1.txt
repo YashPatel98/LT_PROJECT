@@ -1,0 +1,6 @@
+** Test case c1.txt: Handles simple expressions**
+start
+declare x,y:integer;
+get_value(x);
+end
+$

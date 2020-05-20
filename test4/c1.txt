@@ -1,0 +1,10 @@
+** Test case c1.txt: Handles simple expressions**
+start
+declare xy,y:integer;
+y:=4*3;
+xy:=y+3;
+xy:=xy+1;
+declare z:real;
+z:=10.0+1.01;
+end
+$

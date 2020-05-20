@@ -1,0 +1,8 @@
+** Test case c1.txt: Handles simple expressions**
+start
+declare y:integer;
+y:=10+1+2;
+declare z:real;
+z:=10.0+1.01;
+end
+$
