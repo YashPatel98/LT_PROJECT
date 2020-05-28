@@ -1,0 +1,15 @@
+** Test case c1.txt: Handles simple expressions**
+start
+declare x,y:integer;
+
+y:=4*3;
+print(y);
+
+x:=y+3;
+print(x);
+
+declare z,a:boolean;
+z:=((x>y)AND(x>y));
+a:=((12==13)AND(x>y));
+end
+$

@@ -1,0 +1,7 @@
+** Test case c3.txt: Handles iterative statements**
+start
+	declare sum, k:integer;
+	sum:=1;
+	for(k in 1 .. 10) startf print(sum); endf
+end
+$
